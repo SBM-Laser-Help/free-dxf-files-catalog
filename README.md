@@ -26,7 +26,7 @@ Also on Hugging Face: [SBMLaserHelp/free-dxf-files-catalog](https://huggingface.
 | `preview_url` | Preview image of the drawing |
 | `page_url` | Page of the drawing on sbmlaserhelp.com, or its category page if the drawing has no page yet |
 
-Cut length and pierces help estimate cutting time and cost: on a fiber laser, pierces often take as long as the cutting itself on thin sheet.
+Cut length and pierces help estimate cutting time and cost before you open the file.
 
 ## Example
 
