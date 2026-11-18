@@ -21,7 +21,7 @@ Also on Hugging Face: [SBMLaserHelp/free-dxf-files-catalog](https://huggingface.
 | `category` | Category id |
 | `category_name` | Category name in English |
 | `name_en`, `name_ru`, `name_pt_br`, `name_es`, `name_de`, `name_fr`, `name_it`, `name_pl`, `name_tr`, `name_ar`, `name_hi`, `name_uz` | Drawing name in 12 languages |
-| `cut_length_m` | Total cut length, m (rounded) |
+| `cut_length_m` | Total cut length, m (one decimal under 10 m) |
 | `pierces` | Number of pierces (closed contours) |
 | `preview_url` | Preview image of the drawing |
 | `page_url` | Page of the drawing on sbmlaserhelp.com, or its category page if the drawing has no page yet |
